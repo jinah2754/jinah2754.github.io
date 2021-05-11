@@ -2,7 +2,8 @@
 
 #### Code Kata
 
-```1. for문 계산
+```
+1. for문 계산
 var a = 10;
 var b = 2;
 
