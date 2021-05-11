@@ -1,7 +1,7 @@
 ### jinah2754.github.io
 
 - Code Kata
-- ```for문 계산
+```for문 계산
 var a = 10;
 var b = 2;
 
