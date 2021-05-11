@@ -1,1 +1,5 @@
-# jinah2754.github.io
+### jinah2754.github.io
+
+- Code Kata
+
+--jsx
